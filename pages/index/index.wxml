@@ -12,7 +12,7 @@
   </view>
 
   <view class="tool">
-    <button bindtap="clickMe"> 摇骰子 </button>
+    <button bindtap="clickMe"> 摇骰子,摇吧摇吧不是罪，摇多了也不会后悔 </button>
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
